@@ -1,14 +1,12 @@
 ## Usage
 
-### Clone the repository
-
-`git clone <repository-name>`
 
 ### Get the app running
 
-1. cd into repository root and run `npm install`
-2. To run the app in dev mode run `npm run dev` or `yarn run dev`
-3. To run the production version of the app 
+1. Clone the repository. `git@github.com:PedroL33/hand_histories.git`
+2. cd into repository root and run `npm install`
+3. To run the app in dev mode run `npm run dev` or `yarn run dev`
+4. To run the production version of the app 
  - Run `npm run build`
  - cd into dist folder
  - Run the executable file with command `./hand-histories-1.0.0.AppImage`
